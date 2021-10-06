@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marlinsaheb
 - 👀 I’m interested in Online learning
 - 🌱 I’m currently learning Phython
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me https://github.com/Marlinsaheb
 
 <!---
